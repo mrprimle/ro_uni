@@ -1,0 +1,6 @@
+com\wazooinc\springboottodoapplication\models\TodoItem.class
+com\wazooinc\springboottodoapplication\SpringBootTodoApplication.class
+com\wazooinc\springboottodoapplication\repositories\TodoItemRepository.class
+com\wazooinc\springboottodoapplication\controllers\TodoFormController.class
+com\wazooinc\springboottodoapplication\config\TodoItemDataLoader.class
+com\wazooinc\springboottodoapplication\controllers\TodoItemController.class
